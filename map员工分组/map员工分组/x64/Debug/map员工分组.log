@@ -1,0 +1,5 @@
+﻿  源.cpp
+F:\VS_project\黑马C++\map员工分组\map员工分组\源.cpp(47,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\VS_project\黑马C++\map员工分组\map员工分组\源.cpp(60,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\VS_project\黑马C++\map员工分组\map员工分组\源.cpp(73,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  map员工分组.vcxproj -> F:\VS_project\黑马C++\map员工分组\x64\Debug\map员工分组.exe
